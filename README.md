@@ -1,3 +1,2 @@
 # hello-world
-Estamos haciendo un proyecto de m5.
-
+Repositorio de la aplicación
